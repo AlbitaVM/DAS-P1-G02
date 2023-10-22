@@ -12,15 +12,15 @@ Se necesita una arquitectura de software para migrar la arquitectura de un siste
 * RF01: Migración a arquitectura basada en microservicios
 * RF02: Cambio de acceso a las bases de datos mediante protocolos HTTP/REST
 * RF03: Cambio de acceso a las bases de datos mediante un componente Gateway
-* RF04-1: Módulo de clientes (crítico)
-* RF04-2: Módulo de pedidos (no crítico)
-* RF04-3: Módulo de reparto y rutas (crítico)
-* RF04-3-1: Algoritmos de optimización
-* RF04-4: Módulo de estadísticas (no crítico)
-* RF04-5: Módulo de incidencias (semi crítico)
-* RF04-6: Módulo de pagos (crítico)
-* RF05: Intermediario comunicador entre funcionalidades
-* RF08: Acceder a datos de la empresa desde diferentes dispositivos
+* RF04-1: Crear módulo de clientes (crítico)
+* RF04-2: Crear módulo de pedidos (no crítico)
+* RF04-3: Crear módulo de reparto y rutas (crítico)
+* RF04-3-1: Elección de algoritmos de optimización
+* RF04-4: Crear módulo de estadísticas (no crítico)
+* RF04-5: Crear módulo de incidencias (semi crítico)
+* RF04-6: Crear módulo de pagos (crítico)
+* RF05: Usar intermediario de comunicación entre funcionalidades
+* RF06: Acceder a datos de la empresa desde diferentes dispositivos
 
 ## Considered Options
 
