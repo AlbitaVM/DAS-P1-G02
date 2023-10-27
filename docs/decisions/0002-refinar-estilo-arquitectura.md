@@ -1,6 +1,6 @@
 # Refinar-Estilo-Arquitectura
 
-* Status: proposed
+* Status: accepted
 * Date: 2023-10-25
 
 ## Context and Problem Statement
@@ -29,4 +29,4 @@ Se necesita cambiar nuestra arquitectura de dos capas a tres capas, ya que las b
 
 ## Decision Outcome
 
-Chosen option: "", because comes out best.
+Chosen option: "0002-1-Arquitectura-tres-Capas-MVC-Eventos", because creemos que es más útil y óptimo extraer en otra capa las bases de datos.
