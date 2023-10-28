@@ -1,6 +1,6 @@
 # Selección Patrón de Diseño Algoritmos
 
-* Status: proposed
+* Status: accepted
 * Date: 2023-10-27
 
 ## Context and Problem Statement
@@ -18,4 +18,4 @@ Debido a que tenemos dos algortimos diferentes, de los cuales se selecciona uno 
 
 ## Decision Outcome
 
-Chosen option: "", because comes out best.
+Chosen option: "0002-1-Abstract-Factory", because refiriendonos a los eventos, vamos a necesitar escoger entre dos algoritmos y este patrón nos permite abstraernos y dependiendo de lo que se necesite en ese momento instancie un tipo u otro.
