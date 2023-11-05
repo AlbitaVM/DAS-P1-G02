@@ -1,6 +1,6 @@
 # Patrón-diseño-Gateway
 
-* Status: proposed
+* Status: accepted
 * Date: 2023-10-31
 
 ## Context and Problem Statement
@@ -25,4 +25,4 @@ Procedemos a seleccionar el mejor patrón de diseño para introducir en nuestra 
 
 ## Decision Outcome
 
-Chosen option: "", because comes out best.
+Chosen option: "0004-1-Gateway-Pattern", because es el modelo que mejor se amolda al problema respecto a los diferentes dispositivos que puedan conectarse.

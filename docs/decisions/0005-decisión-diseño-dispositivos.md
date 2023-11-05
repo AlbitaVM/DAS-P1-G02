@@ -1,6 +1,6 @@
 # Decisión Diseño Dispositivos
 
-* Status: proposed
+* Status: accepted
 * Date: 2023-11-01
 
 ## Context and Problem Statement
@@ -13,14 +13,14 @@ La arquitectura cuenta con una parte de clientes PC y móvil que acceden a los d
 
 ## Considered Options
 
-* 0004-1 Patrón de Diseño Responsivo
-* 0004-2 Patrón de Diseño Adaptativo
-* 0004-3 Patrón de Diseño Maestro-Detalle
-* 0004-4 Patrón de Diseño Navegación Drawer
-* 0004-5 Patrón de Diseño Navegación por Pestañas
-* 0004-6 Patrón de Diseño de Tarjetas
-* 0004-7 Patrón de Diseño de Cuadrícula
+* 0004-1 Decisión de Diseño Responsivo
+* 0004-2 Decisión de Diseño Adaptativo
+* 0004-3 Decisión de Diseño Maestro-Detalle
+* 0004-4 Decisión de Diseño Navegación Drawer
+* 0004-5 Decisión de Diseño Navegación por Pestañas
+* 0004-6 Decisión de Diseño de Tarjetas
+* 0004-7 Decisión de Diseño de Cuadrícula
 
 ## Decision Outcome
 
-Chosen option: "", because comes out best.
+Chosen option: "0004-1 Patrón de Diseño Responsivo", because Este Modelo permite adaptar la misma pantalla a diferentes tipos de dispositivos.
