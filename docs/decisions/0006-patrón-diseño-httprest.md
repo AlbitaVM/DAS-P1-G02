@@ -1,6 +1,6 @@
 # Patrón-Diseño-HTTP/REST
 
-* Status: proposed
+* Status: accepted
 * Date: 2023-11-03
 
 ## Context and Problem Statement
@@ -23,4 +23,4 @@ El acceso actual se pretende que sea sustituido por protocolos HTTP/REST mediant
 
 ## Decision Outcome
 
-Chosen option: "", because comes out best.
+Chosen option: "0006-1-RESTful-Pattern", because es el patrón de diseño que mejor resuelve nuestro problema, permitiendo una interfaz para peticiones HTTP en la que podemos hacer GET, PUT, POST y DELETE de los datos de nuestras bases de datos.
