@@ -1,6 +1,6 @@
 # Elección-driver-bbdd
 
-* Status: proposed
+* Status: accepted
 * Date: 2023-11-08
 
 ## Context and Problem Statement
@@ -23,4 +23,4 @@ Necesitamos especificar un driver para conectarnos a nuestras 2 BBDD SQL (Client
 
 ## Decision Outcome
 
-Chosen option: "", because comes out best.
+Chosen option: "0007-1-MySQL", because Es una base de datos gratuita, es muy fácil de usar, es una base de datos muy rápida, utiliza varias capas de seguridad, pocos requerimientos y eficiencia de memoria, es compatible con Linux y Windows.
