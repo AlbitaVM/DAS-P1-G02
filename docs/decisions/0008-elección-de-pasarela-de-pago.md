@@ -1,6 +1,6 @@
 # Elección de pasarela de pago
 
-* Status: proposed
+* Status: accepted
 * Date: 2023-11-08
 
 ## Context and Problem Statement
@@ -17,7 +17,8 @@ Necesitamos especificar una pasarela de pago para poder realizar las transaccion
 * 0008-2-TPV Virtual BBVA
 * 0008-3-TPV Virtual Santander
 * 0008-4-TPV Virtual Paypal
+* 0008-5-TPV Virtual Redsys
 
 ## Decision Outcome
 
-Chosen option: "", because comes out best.
+Chosen option: "0008-5-TPV Virtual Redsys", because tiene una guía de implementación muy sencilla, extensa, intuitiva y guiada. Además es de un uso muy común.
