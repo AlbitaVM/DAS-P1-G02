@@ -21,4 +21,4 @@ Hemos detectado que en las pasadas decisiones de diseño cometimos un error al e
 
 ## Decision Outcome
 
-Chosen option: "", because comes out best.
+Chosen option: "0010-3-Patrón de Strategy", because nos permite extraer la situación de los algoritmos y así poder seleccionar el que más convenga según los intereses.

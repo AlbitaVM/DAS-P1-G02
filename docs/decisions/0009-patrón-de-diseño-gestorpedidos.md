@@ -21,4 +21,4 @@ Necesitamos especificar un patrón de diseño para nuestro componente GestorPedi
 
 ## Decision Outcome
 
-Chosen option: "", because comes out best.
+Chosen option: "0009-1-Mediator", because porque es el que mejor implementa la funcionalidad de mediador entre módulos que necesitamos.
